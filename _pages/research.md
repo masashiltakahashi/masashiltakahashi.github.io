@@ -14,7 +14,7 @@ nav_order: 2
 #</div>
 ---
 
-##### [`Climate Risk and Contract Completeness: Evidence from Corporate Real Estate Leases`](http://reddit.com)
+##### [`Climate Risk and Contract Completeness: Evidence from Corporate Real Estate Leases`](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686886)
 
 **Presentation: Hitotsubashi 2023, Penn State 2023, FIRS PhD Session 2024 (Scheduled), AREUEA-AsRES 2024 (Scheduled)**
 
@@ -22,7 +22,7 @@ nav_order: 2
 
 <br><br>
 
-#### [`Difference-in-discontinuities Design`](http://reddit.com)
+##### [`Difference-in-discontinuities Design`](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686891)
 
 **Presentation: Penn State 2024, IAAE 2024 (Scheduled), Econometric Society Asian Meeting 2024 (Scheduled)**
 
