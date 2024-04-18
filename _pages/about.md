@@ -27,4 +27,4 @@ social: false # includes social icons at the bottom of the page
 
 I am a second-year PhD student at Smeal College of Business, Pennsylvania State University. My research interests are finance, real estate, and applied econometrics.
 
-Contact: mft5548@psu.edu
+Contact: `mft5548@psu.edu`
