@@ -14,17 +14,15 @@ nav_order: 2
 #</div>
 ---
 
-### Working Paper
-
-#### Climate Risk and Contract Completeness: Evidence from Corporate Real Estate Leases
+#### [**Climate Risk and Contract Completeness: Evidence from Corporate Real Estate Leases**](http://reddit.com)
 
 **Presentation: Hitotsubashi 2023, Penn State 2023, FIRS PhD Session 2024 (Scheduled), AREUEA-AsRES 2024 (Scheduled)**
 
-Climate risk, an bad state of the world, affect asset values. When contracting parties anticipate this potential contingencies, do financial contracts become more complete (future contingencies are well-specified)?
+*Climate risk, an bad state of the world, affect asset values. When contracting parties anticipate this potential contingencies, do financial contracts become more complete (future contingencies are well-specified)?*
 
 <br><br>
 
-### Difference-in-discontinuities Design
+#### **Difference-in-discontinuities Design**
 
 ###### **Presentation: Penn State 2024, IAAE 2024 (Scheduled), Econometric Society Asian Meeting 2024 (Scheduled)**
 
