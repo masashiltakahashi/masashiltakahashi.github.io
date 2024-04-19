@@ -18,7 +18,7 @@ nav_order: 2
 
 **Presentation: Hitotsubashi 2023, Penn State 2023, FIRS PhD Session 2024 (Scheduled), AREUEA-AsRES 2024 (Scheduled)**
 
-*Climate risk, an bad state of the world, affect asset values. When contracting parties anticipate this potential contingencies, do financial contracts become more complete (future contingencies are well-specified)?*
+*Climate risk encompasses newly recognized bad states of the world that affect future asset values. When contracting parties increasingly anticipate this risk, do financial contract designs become more complete by specifying more future climate contingencies?*
 
 <br><br>
 
