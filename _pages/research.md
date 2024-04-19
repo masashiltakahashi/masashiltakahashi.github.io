@@ -26,4 +26,4 @@ nav_order: 2
 
 **Presentation: Penn State 2024, IAAE 2024 (Scheduled), Econometric Society Asian Meeting 2024 (Scheduled)**
 
-*Differen-in-discontinuities design is a hybrid approch that combines DID and RD.*
+*The difference-in-discontinuities design is a hybrid approach that combines DID and RD. Although the literature states this design identifies ATE at the discontinuity, it actually identifies ATT at the discontinuity (very local!)*
