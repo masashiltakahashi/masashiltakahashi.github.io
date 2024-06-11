@@ -24,6 +24,6 @@ nav_order: 2
 
 ##### [`Difference-in-discontinuities Design`](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686891)
 
-**Presentation: Econometric Society Asian Meeting 2024 (Scheduled), IAAE 2024 (Scheduled), Penn State 2024**
+**Presentation: Econometric Society Asian Meeting 2024 (Scheduled), IAAE 2024, Penn State 2024**
 
 *The difference-in-discontinuities design is a hybrid approach that combines DID and RD. Although the literature states this design identifies ATE at the discontinuity, it actually identifies ATT at the discontinuity (very local!)*
