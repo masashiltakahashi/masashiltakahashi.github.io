@@ -1,13 +1,26 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description:
 nav: true
-published: false
-nav_order: 6
+# published: false
+nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+##### Instructor
 
-Organize your courses by years, topics, or universities, however you like!
+**Pennsylvania State University**
+
+RM450: Contemporary Issues in Real Estate Markets
+
+
+##### Teaching Assistant
+
+**Pennsylvania State University**
+
+FIN460/RM460: Real Estate Financial Analysis
+
+FIN470/RM470: Real Estate and Capital Markets
+
+REST560: Real Estate Financial Analysis
