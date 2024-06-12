@@ -12,15 +12,13 @@ nav_order: 3
 
 `RM450: Contemporary Issues in Real Estate Markets`  
 Spring 2024, Fall 2024 (Scheduled)
-<br><br>
 
-<table width="100%">
+<!-- <table width="100%">
   <tr>
     <td>RM450: Contemporary Issues in Real Estate Markets</td>
     <td style="text-align: right;">Spring 2024, Fall 2024 (Scheduled)</td>
   </tr>
-</table>
-
+</table> -->
 
 <br><br>
 
@@ -29,9 +27,13 @@ Spring 2024, Fall 2024 (Scheduled)
 `FIN460/RM460: Real Estate Financial Analysis`  
 Fall 2023
 
-<br><br>
+`FIN470/RM470: Real Estate and Capital Markets`  
+Fall 2023
 
-<table width="100%">
+`REST560: Real Estate Financial Analysis`  
+Fall 2023
+
+<!-- <table width="100%">
   <tr>
     <td>FIN460/RM460: Real Estate Financial Analysis</td>
     <td style="text-align: right;">Fall 2023</td>
@@ -44,4 +46,4 @@ Fall 2023
     <td>REST560: Real Estate Financial Analysis</td>
     <td style="text-align: right;">Fall 2023</td>
   </tr>
-</table>
+</table> -->
