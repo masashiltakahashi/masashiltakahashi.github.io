@@ -8,19 +8,24 @@ nav: true
 nav_order: 3
 ---
 
-##### Instructor
+##### **Instructor**
 
 **Pennsylvania State University**
 
-RM450: Contemporary Issues in Real Estate Markets
+<div style="display: flex; justify-content: space-between;">
+  <span>`RM450: Contemporary Issues in Real Estate Markets`</span>
+  <span>Spring, 2024</span>
+</div>
 
 
-##### Teaching Assistant
+<br><br>
+
+##### **Teaching Assistant**
 
 **Pennsylvania State University**
 
-FIN460/RM460: Real Estate Financial Analysis
+`FIN460/RM460: Real Estate Financial Analysis`
 
-FIN470/RM470: Real Estate and Capital Markets
+`FIN470/RM470: Real Estate and Capital Markets`
 
-REST560: Real Estate Financial Analysis
+`REST560: Real Estate Financial Analysis`
