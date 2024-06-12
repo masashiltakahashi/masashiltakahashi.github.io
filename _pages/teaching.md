@@ -10,6 +10,10 @@ nav_order: 3
 
 ##### **Instructor**
 
+`RM450: Contemporary Issues in Real Estate Markets`  
+Spring 2024, Fall 2024 (Scheduled)
+<br><br>
+
 <table width="100%">
   <tr>
     <td>RM450: Contemporary Issues in Real Estate Markets</td>
@@ -21,6 +25,11 @@ nav_order: 3
 <br><br>
 
 ##### **Teaching Assistant**
+
+`FIN460/RM460: Real Estate Financial Analysis`  
+Fall 2023
+
+<br><br>
 
 <table width="100%">
   <tr>
