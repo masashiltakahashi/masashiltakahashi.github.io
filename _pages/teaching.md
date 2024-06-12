@@ -13,7 +13,7 @@ nav_order: 3
 <table width="100%">
   <tr>
     <td>RM450: Contemporary Issues in Real Estate Markets</td>
-    <td style="text-align: right;">Fall 2024 (Scheduled), Spring 2024</td>
+    <td style="text-align: right;">Spring 2024, Fall 2024 (Scheduled)</td>
   </tr>
 </table>
 
