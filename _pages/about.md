@@ -25,7 +25,7 @@ social: false # includes social icons at the bottom of the page
 # Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 ---
 
-##### I am a second-year PhD student at Smeal College of Business, Pennsylvania State University. My research interests are finance, real estate, and applied econometrics.
+##### I am a second-year PhD student at Smeal College of Business, Pennsylvania State University. My research interests are finance, real estate, and econometrics.
 
 Contact: `mft5548@psu.edu`  
 CV: [`CV`](../assets/pdf/CV.pdf)
