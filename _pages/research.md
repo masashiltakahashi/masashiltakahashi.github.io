@@ -14,8 +14,7 @@ nav_order: 2
 #</div>
 ---
 
-##### `Climate Risk and Contract Completeness: Evidence from Corporate Real Estate Leases` 
-[`[SSRN]`](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686886)
+##### **Climate Risk and Contract Completeness: Evidence from Corporate Real Estate Leases** [`[SSRN]`](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686886)
 
 **Presentations: MIT Climate and Real Estate Symposium 2024 (Scheduled), AREUEA-AsRES 2024 (Scheduled), FIRS PhD Session 2024, Penn State 2023, Hitotsubashi 2023**
 
@@ -23,8 +22,7 @@ nav_order: 2
 
 <br><br>
 
-##### `Difference-in-discontinuities Design`
-[`[SSRN]`](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686891)
+##### `Difference-in-discontinuities Design` [`[SSRN]`](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686891)
 
 **Presentations: Econometric Society Asian Meeting 2024, IAAE 2024, Penn State 2024**
 
