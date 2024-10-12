@@ -17,7 +17,7 @@ nav_order: 2
 ##### `Climate Risk and Contract Completeness: Evidence from Corporate Real Estate Leases` 
 [`[SSRN]`](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686886)
 
-**Presentations: MIT Climate and Real Estate Symposium 2024 (Scheduled), FIRS PhD Session 2024, Penn State 2023, Hitotsubashi 2023**
+**Presentations: MIT Climate and Real Estate Symposium 2024, FIRS PhD Session 2024, Penn State 2023, Hitotsubashi 2023**
 
 *Climate risk encompasses newly recognized bad states of the world that affect future asset values. When contracting parties increasingly anticipate this risk, do financial contract designs become more complete by specifying more future climate contingencies?*
 
