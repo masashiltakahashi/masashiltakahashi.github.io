@@ -21,9 +21,9 @@ nav_order: 2
 
 *Climate risk encompasses newly recognized bad states of the world that affect future asset values. When contracting parties increasingly anticipate this risk, do financial contract designs become more complete by specifying more future climate contingencies?*
 
-<br><br>
+<p style="margin-top: 3em;"></p>
 
-##### `Difference-in-discontinuities Design`
+##### `A Note on Identification of the Difference-in-discontinuities Design`
 [`[SSRN]`](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686891)
 
 **Presentations: Econometric Society Asian Meeting 2024, IAAE 2024, Penn State 2024**
