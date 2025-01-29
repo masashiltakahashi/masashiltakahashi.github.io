@@ -25,7 +25,7 @@ social: false # includes social icons at the bottom of the page
 # Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 ---
 
-##### I am a PhD candidate (third-year) at Smeal College of Business, Pennsylvania State University. My research interests are finance, real estate, and applied econometrics.
+##### I am a PhD candidate (third-year) at Smeal College of Business, Pennsylvania State University. My research focuses on finance, real estate, and applied econometrics. Prior to joining Smeal, I served as a consultant for financial institutions in Tokyo, Japan.
 
 Contact: `mft5548@psu.edu`  
-CV: [`CV`](../assets/pdf/CV.pdf)
+CV: [`CLICK HERE`](../assets/pdf/CV.pdf)
