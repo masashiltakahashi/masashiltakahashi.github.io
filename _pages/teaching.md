@@ -13,7 +13,7 @@ nav_order: 3
 `RM450: Contemporary Issues in Real Estate Markets`  
 Spring 2024, Fall 2024, Fall 2025 (Scheduled)
 
-<br><br>
+<p style="margin-top: 3em;"></p>
 
 ##### **Teaching Assistant**
 

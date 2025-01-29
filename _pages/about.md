@@ -31,5 +31,7 @@ social: false # includes social icons at the bottom of the page
 
 ##### Prior to joining Smeal, I served as a consultant for financial institutions in Tokyo, Japan.
 
+<p style="margin-top: 1em;"></p>
+
 Contact: `mft5548@psu.edu`  
 CV: [`CLICK HERE`](../assets/pdf/CV.pdf)
