@@ -26,7 +26,7 @@ social: false # includes social icons at the bottom of the page
 ---
 
 ##### I am a PhD candidate (third-year) at Smeal College of Business, Pennsylvania State University. My research focuses on finance, real estate, and applied econometrics. 
-##### 
+
 ##### Prior to joining Smeal, I served as a consultant for financial institutions in Tokyo, Japan.
 
 Contact: `mft5548@psu.edu`  
