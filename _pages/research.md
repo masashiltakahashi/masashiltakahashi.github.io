@@ -12,13 +12,15 @@ nav_order: 2
 #{% bibliography %}
 
 #</div>
+
+# My research 
 ---
 
 #### **Working Papers**
 
 <p style="margin-top: 2.5em;"></p>
 
-##### **Climate Risk and Contract Design: Evidence from Corporate Real Estate Leases**
+##### **<span style="color: rgb(30, 64, 124)">Climate Risk and Contract Design: Evidence from Corporate Real Estate Leases</span>**
 [`[SSRN]`](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686886)
 
 **Presentations: MIT Climate and Real Estate Symposium 2024, FIRS PhD Session 2024, Penn State 2023, Hitotsubashi 2023**
