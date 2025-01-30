@@ -8,26 +8,26 @@ nav: true
 nav_order: 3
 ---
 
-##### **Instructor**
+#### **Instructor**
 
-`RM450: Contemporary Issues in Real Estate Markets`  
+**RM450: Contemporary Issues in Real Estate Markets**
 Spring 2024, Fall 2024, Fall 2025 (Scheduled)
 
 <p style="margin-top: 3em;"></p>
 
-##### **Teaching Assistant**
+#### **Teaching Assistant**
 
-`FIN455/RM475: Quantitative Analysis for Business`  
+**FIN455/RM475: Quantitative Analysis for Business** 
 Spring 2025
 
-`FIN460/RM460: Real Estate Financial Analysis`  
+**FIN460/RM460: Real Estate Financial Analysis**
 Fall 2023
 
-`FIN470/RM470: Real Estate and Capital Markets`  
+**FIN470/RM470: Real Estate and Capital Markets**
 Fall 2023
 
-`REST560: Real Estate Financial Analysis`  
+**REST560: Real Estate Financial Analysis**
 Fall 2023
 
-`REST575: Quantitative Analysis for Real Estate`  
+**REST575: Quantitative Analysis for Real Estate**
 Spring 2025

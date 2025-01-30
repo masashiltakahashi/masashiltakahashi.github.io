@@ -14,7 +14,7 @@ nav_order: 2
 #</div>
 ---
 
-##### **Working Papers**
+#### **Working Papers**
 
 <p style="margin-top: 2.5em;"></p>
 
@@ -27,7 +27,7 @@ nav_order: 2
 
 <p style="margin-top: 2.5em;"></p>
 
-##### `A Note on Identification of the Difference-in-discontinuities Design`
+##### **A Note on Identification of the Difference-in-discontinuities Design**
 [`[SSRN]`](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686891)
 
 **Presentations: Econometric Society Asian Meeting 2024, IAAE 2024, Penn State 2024**
@@ -36,7 +36,7 @@ nav_order: 2
 
 <p style="margin-top: 5em;"></p>
 
-##### **Work in Progress**
+#### **Work in Progress**
 
 <p style="margin-top: 2.5em;"></p>
 
