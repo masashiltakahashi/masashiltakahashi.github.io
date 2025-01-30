@@ -18,7 +18,7 @@ nav_order: 2
 
 <p style="margin-top: 3em;"></p>
 
-##### `Climate Risk and Contract Design: Evidence from Corporate Real Estate Leases` 
+##### Climate Risk and Contract Design: Evidence from Corporate Real Estate Leases
 [`[SSRN]`](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686886)
 
 **Presentations: MIT Climate and Real Estate Symposium 2024, FIRS PhD Session 2024, Penn State 2023, Hitotsubashi 2023**
@@ -40,4 +40,6 @@ nav_order: 2
 
 ##### `Measuring Expectations in Real Estate Markets from Contract Rent Schedules` (with Jiro Yoshida)
 
-##### `Mortgage-Backed Securities under Institutional Demand System`
+<p style="margin-top: 2em;"></p>
+
+##### Mortgage-Backed Securities under Institutional Demand System
