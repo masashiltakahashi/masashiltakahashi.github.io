@@ -37,3 +37,7 @@ nav_order: 2
 <p style="margin-top: 5em;"></p>
 
 ##### Work in Progress
+
+##### `Measuring Expectations in Real Estate Markets from Contract Rent Schedules` (with Jiro Yoshida)
+
+##### `Mortgage-Backed Securities under Institutional Demand System`
