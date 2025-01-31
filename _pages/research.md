@@ -18,8 +18,6 @@ nav_order: 2
 
 #### **Working Papers**
 
-<p style="margin-top: 1em;"></p>
-
 ##### **<span style="color: rgb(51, 153, 255)">Climate Risk and Contract Design: Evidence from Corporate Real Estate Leases</span>**
 [`[SSRN]`](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686886)
 
@@ -40,7 +38,6 @@ nav_order: 2
 
 #### **Work in Progress**
 
-<p style="margin-top: 1em;"></p>
 
 ##### **<span style="color: rgb(51, 153, 255)">Measuring Expectations in Real Estate Markets from Contract Rent Schedules</span>** (with Jiro Yoshida)
 
