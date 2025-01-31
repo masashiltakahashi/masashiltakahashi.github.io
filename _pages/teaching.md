@@ -12,8 +12,10 @@ nav_order: 3
 
 <p style="margin-top: 1em;"></p>
 
-**RM450: Contemporary Issues in Real Estate Markets**
+**<span style="color: rgb(51, 153, 255)">RM450: Contemporary Issues in Real Estate Markets</span>**
+
 <p style="margin-top: 0.1em;"></p>
+
 Spring 2024, Fall 2024, Fall 2025 (Scheduled)
 
 <p style="margin-top: 3em;"></p>
@@ -22,8 +24,10 @@ Spring 2024, Fall 2024, Fall 2025 (Scheduled)
 
 <p style="margin-top: 1em;"></p>
 
-**FIN455/RM475: Quantitative Analysis for Business** 
+**<span style="color: rgb(51, 153, 255)">FIN455/RM475: Quantitative Analysis for Business</span>** 
+
 <p style="margin-top: 0.1em;"></p>
+
 Spring 2025
 
 <p style="margin-top: 1em;"></p>
