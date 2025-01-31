@@ -13,14 +13,14 @@ nav_order: 2
 
 #</div>
 
-# My research 
+# My research themes are investigating (1) How financial contracts incorporate the future state of the world and (2) recovering beliefs for the state of the world from obserged financial contracts.
 ---
 
 #### **Working Papers**
 
-<p style="margin-top: 2.5em;"></p>
+<p style="margin-top: 1em;"></p>
 
-##### **<span style="color: rgb(30, 64, 124)">Climate Risk and Contract Design: Evidence from Corporate Real Estate Leases</span>**
+##### **<span style="color: rgb(51, 153, 255)">Climate Risk and Contract Design: Evidence from Corporate Real Estate Leases</span>**
 [`[SSRN]`](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686886)
 
 **Presentations: MIT Climate and Real Estate Symposium 2024, FIRS PhD Session 2024, Penn State 2023, Hitotsubashi 2023**
@@ -29,7 +29,7 @@ nav_order: 2
 
 <p style="margin-top: 2.5em;"></p>
 
-##### **A Note on Identification of the Difference-in-discontinuities Design**
+##### **<span style="color: rgb(51, 153, 255)">A Note on Identification of the Difference-in-discontinuities Design</span>**
 [`[SSRN]`](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686891)
 
 **Presentations: Econometric Society Asian Meeting 2024, IAAE 2024, Penn State 2024**
@@ -40,10 +40,10 @@ nav_order: 2
 
 #### **Work in Progress**
 
+<p style="margin-top: 1em;"></p>
+
+##### **<span style="color: rgb(51, 153, 255)">Measuring Expectations in Real Estate Markets from Contract Rent Schedules</span>** (with Jiro Yoshida)
+
 <p style="margin-top: 2.5em;"></p>
 
-##### **Measuring Expectations in Real Estate Markets from Contract Rent Schedules** (with Jiro Yoshida)
-
-<p style="margin-top: 2.5em;"></p>
-
-##### **Mortgage-Backed Securities under Institutional Demand System**
+##### **<span style="color: rgb(51, 153, 255)">Mortgage-Backed Securities under Institutional Demand System</span>**
