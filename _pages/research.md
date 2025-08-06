@@ -39,7 +39,7 @@ nav_order: 2
 #### **Work in Progress**
 
 
-##### **<span style="color: rgb(51, 153, 255)">Measuring Expectations in Real Estate Markets from Long-Term Lease Contracts</span>** (with Jiro Yoshida)
+##### **<span style="color: rgb(51, 153, 255)">Measuring Expectations in Commercial Real Estate Markets from Long-Term Lease Contracts</span>** (with Jiro Yoshida)
 
 **Presentations: Real Estate Finance and Investment Symposium 2025 (Scheduled)**
 
