@@ -28,7 +28,7 @@ nav_order: 2
 <p style="margin-top: 2.5em;"></p>
 
 ##### **<span style="color: rgb(51, 153, 255)">A Note on Identification of the Difference-in-discontinuities Design</span>**
-[`[SSRN]`](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686891)
+[`[SSRN]`](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686891) (Under Review)
 
 **Presentations: Econometric Society Asian Meeting 2024, IAAE 2024, Penn State 2024**
 
@@ -41,6 +41,12 @@ nav_order: 2
 
 ##### **<span style="color: rgb(51, 153, 255)">Measuring Expectations in Real Estate Markets from Contract Rent Schedules</span>** (with Jiro Yoshida)
 
+**Presentations: Real Estate Finance and Investment Symposium 2025 (Scheduled)**
+
 <p style="margin-top: 2.5em;"></p>
 
-##### **<span style="color: rgb(51, 153, 255)">Mortgage-Backed Securities under Institutional Demand System</span>**
+##### **<span style="color: rgb(51, 153, 255)">Targeted Credit Easing and the Neighborhood Transformation: Evidence from a Spatial Discontinuity</span>** (with Wenchuan Zhao)
+
+<p style="margin-top: 2.5em;"></p>
+
+##### **<span style="color: rgb(51, 153, 255)">Estimating Demand System in the Agency Mortgage-Backed Securities Market</span>**

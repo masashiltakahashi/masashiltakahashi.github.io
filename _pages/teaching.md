@@ -12,7 +12,7 @@ nav_order: 3
 
 **<span style="color: rgb(51, 153, 255)">RM450: Contemporary Issues in Real Estate Markets</span>**
 
-Spring 2024, Fall 2024, Fall 2025 (Scheduled)
+Spring 2024, Fall 2024, Fall 2025
 
 <p style="margin-top: 3em;"></p>
 
