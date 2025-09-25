@@ -18,6 +18,14 @@ nav_order: 2
 
 #### **Working Papers**
 
+##### **<span style="color: rgb(51, 153, 255)">Measuring Expectations in Commercial Real Estate Markets from Long-Term Lease Contracts</span>** (with Jiro Yoshida)
+
+**Presentations: Real Estate Finance and Investment Symposium 2025 (Scheduled)**
+
+*Commercial real estate markets lack systematic measures of inflation and market expectations. We develop an asset-pricing–based approach and apply it to major U.S. office, industrial, and retail markets to estimate these measures.*
+
+<p style="margin-top: 2.5em;"></p>
+
 ##### **<span style="color: rgb(51, 153, 255)">Climate Risk and Contract Design: Evidence from Corporate Real Estate Leases</span>**
 [`[SSRN]`](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686886)
 
@@ -37,13 +45,6 @@ nav_order: 2
 <p style="margin-top: 5em;"></p>
 
 #### **Work in Progress**
-
-
-##### **<span style="color: rgb(51, 153, 255)">Measuring Expectations in Commercial Real Estate Markets from Long-Term Lease Contracts</span>** (with Jiro Yoshida)
-
-**Presentations: Real Estate Finance and Investment Symposium 2025 (Scheduled)**
-
-<p style="margin-top: 2.5em;"></p>
 
 ##### **<span style="color: rgb(51, 153, 255)">Targeted Credit Easing and the Neighborhood Transformation: Evidence from a Spatial Discontinuity</span>** (with Wenchuan Zhao)
 
