@@ -35,12 +35,12 @@ nav_order: 2
 
 <p style="margin-top: 2.5em;"></p>
 
-##### **<span style="color: rgb(51, 153, 255)">A Note on Identification of the Difference-in-discontinuities Design</span>**
-[`[SSRN]`](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686891) (Under Review)
+##### **<span style="color: rgb(51, 153, 255)">A Note on Identification of the Difference-in-discontinuities Design in Cross-Sectional Applications</span>**
+[`[SSRN]`](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686891)
 
 **Presentations: Econometric Society Asian Meeting 2024, IAAE 2024, Penn State 2024**
 
-*The difference-in-discontinuities design is a hybrid approach that combines DID and RD. Although the literature states this design identifies ATE at the discontinuity, it actually identifies ATT at the discontinuity (very local!)*
+*In cross-sectional setting of the difference-in-discontinuities (diff-in-disc) design, identifying the conventional local average treatment effect (LATE) additionally requires random assignment of comparison groups.*
 
 <p style="margin-top: 5em;"></p>
 
