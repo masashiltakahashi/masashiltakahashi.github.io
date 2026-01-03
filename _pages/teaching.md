@@ -45,3 +45,7 @@ Fall 2023
 **<span style="color: rgb(51, 153, 255)">REST575: Quantitative Analysis for Real Estate</span>**
 
 Spring 2025
+
+**<span style="color: rgb(51, 153, 255)">RM450: Contemporary Issues in Real Estate Markets</span>**
+
+Spring 2026
