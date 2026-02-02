@@ -18,9 +18,9 @@ nav_order: 2
 
 #### **Working Papers**
 
-##### **<span style="color: rgb(51, 153, 255)">Measuring Expectations in Commercial Real Estate Markets from Long-Term Lease Contracts</span>** (with Jiro Yoshida)
+##### **<span style="color: rgb(51, 153, 255)">Expectations and Risk Premiums in Illiquid Real Assets</span>** (with Jiro Yoshida)
 
-**Presentations: Real Estate Finance and Investment Symposium 2025 (Scheduled)**
+**Presentations: USC 2026, Real Estate Finance and Investment Symposium 2025, Penn State 2025**
 
 *Commercial real estate markets lack systematic measures of inflation and market expectations. We develop an asset-pricing–based approach and apply it to major U.S. office, industrial, and retail markets to estimate these measures.*
 
