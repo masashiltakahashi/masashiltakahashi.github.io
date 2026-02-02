@@ -18,8 +18,6 @@ nav_order: 2
 
 #### **Working Papers**
 
-##### **<span style="color: rgb(51, 153, 255)">Expectations and Risk Premiums in Illiquid Real Assets</span>** (with Jiro Yoshida)
-
 ##### **<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5733262" target="_blank" rel="noopener noreferrer" style="color: rgb(51, 153, 255); text-decoration: none;">Expectations and Risk Premiums in Illiquid Real Assets</a>** (with Jiro Yoshida)
 
 **Presentations: USC 2026, Real Estate Finance and Investment Symposium 2025, Penn State 2025**
@@ -28,8 +26,7 @@ nav_order: 2
 
 <p style="margin-top: 2.5em;"></p>
 
-##### **<span style="color: rgb(51, 153, 255)">Climate Risk and Contract Design: Evidence from Corporate Real Estate Leases</span>**
-[`[SSRN]`](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686886)
+##### **<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686886" target="_blank" rel="noopener noreferrer" style="color: rgb(51, 153, 255); text-decoration: none;">Climate Risk and Contract Design: Evidence from Corporate Real Estate Leases</a>**
 
 **Presentations: MIT Climate and Real Estate Symposium 2024, FIRS PhD Session 2024, Penn State 2023, Hitotsubashi 2023**
 
@@ -37,8 +34,7 @@ nav_order: 2
 
 <p style="margin-top: 2.5em;"></p>
 
-##### **<span style="color: rgb(51, 153, 255)">A Note on Identification of the Difference-in-discontinuities Design in Cross-Sectional Applications</span>**
-[`[SSRN]`](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686891)
+##### **<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686891" target="_blank" rel="noopener noreferrer" style="color: rgb(51, 153, 255); text-decoration: none;">A Note on Identification of the Difference-in-discontinuities Design in Cross-Sectional Applications</a>**
 
 **Presentations: Econometric Society Asian Meeting 2024, IAAE 2024, Penn State 2024**
 
@@ -48,8 +44,8 @@ nav_order: 2
 
 #### **Work in Progress**
 
-##### **<span style="color: rgb(51, 153, 255)">Targeted Credit Easing and the Neighborhood Transformation: Evidence from a Spatial Discontinuity</span>** (with Wenchuan Zhao)
+##### **<span style="color: rgb(51, 153, 255)">Who Holds Fixed-Income Assets and How It Shapes Monetary Policy: Evidence from Sector-Level Portfolios</span>**
 
 <p style="margin-top: 2.5em;"></p>
 
-##### **<span style="color: rgb(51, 153, 255)">Estimating Demand System in the Agency Mortgage-Backed Securities Market</span>**
+##### **<span style="color: rgb(51, 153, 255)">Credit Expansion and Neighborhood Transformation: Evidence from Place-Based Mortgage Lending</span>** (with Wenchuan Zhao)
