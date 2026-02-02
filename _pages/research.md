@@ -20,9 +20,7 @@ nav_order: 2
 
 ##### **<span style="color: rgb(51, 153, 255)">Expectations and Risk Premiums in Illiquid Real Assets</span>** (with Jiro Yoshida)
 
-##### **<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5733262" target="_blank" rel="noopener noreferrer" style="color: rgb(51, 153, 255); text-decoration: none;">
-Expectations and Risk Premiums in Illiquid Real Assets
-</a>** (with Jiro Yoshida)
+##### **<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5733262" target="_blank" rel="noopener noreferrer" style="color: rgb(51, 153, 255); text-decoration: none;">Expectations and Risk Premiums in Illiquid Real Assets</a>** (with Jiro Yoshida)
 
 **Presentations: USC 2026, Real Estate Finance and Investment Symposium 2025, Penn State 2025**
 
