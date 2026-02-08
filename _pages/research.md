@@ -34,7 +34,7 @@ nav_order: 2
 
 <p style="margin-top: 2.5em;"></p>
 
-##### **<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686891" target="_blank" rel="noopener noreferrer" style="color: rgb(51, 153, 255); text-decoration: none;">A Note on Identification of the Difference-in-discontinuities Design in Cross-Sectional Applications</a>**
+##### **<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686891" target="_blank" rel="noopener noreferrer" style="color: rgb(51, 153, 255); text-decoration: none;">A Note on Identification of Difference-in-Discontinuities in Cross-Sectional Settings</a>**
 
 **Presentations: Econometric Society Asian Meeting 2024, IAAE 2024, Penn State 2024**
 
