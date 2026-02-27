@@ -26,7 +26,7 @@ nav_order: 2
 
 <p style="margin-top: 2.5em;"></p>
 
-##### **<span style="color: rgb(0, 0, 0)">Credit Expansion and Neighborhood Transformation: Evidence from Place-Based Mortgage Lending</span>** (with Wenchuan Zhao)
+##### **<span style="color: rgb(51, 153, 255)">Credit Expansion and Neighborhood Transformation: Evidence from Place-Based Mortgage Lending</span>** (with Wenchuan Zhao)
 
 **Presentations: UEA European Meeting 2026 (Scheduled)**
 
@@ -52,5 +52,5 @@ nav_order: 2
 
 #### **Work in Progress**
 
-##### **<span style="color: rgb(0, 0, 0)">Who Holds Fixed-Income Assets and How It Shapes Monetary Policy: Evidence from Sector-Level Portfolios</span>**
+##### **<span style="color: rgb(51, 153, 255)">Who Holds Fixed-Income Assets and How It Shapes Monetary Policy: Evidence from Sector-Level Portfolios</span>**
 
