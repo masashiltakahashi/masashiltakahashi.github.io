@@ -29,7 +29,7 @@ social: false # includes social icons at the bottom of the page
 
 <p style="margin-top: 1em;"></p>
 
-##### Prior to joining Smeal, I served as a consultant for financial institutions in Tokyo, Japan.
+##### Prior to joining Smeal, I served as a consultant at Deloitte, advising financial institutions in Tokyo, Japan.
 
 <p style="margin-top: 1em;"></p>
 
