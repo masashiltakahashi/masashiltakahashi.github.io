@@ -22,7 +22,15 @@ nav_order: 2
 
 **Presentations: USC 2026, Real Estate Finance and Investment Symposium 2025, Penn State 2025**
 
-*Commercial real estate markets lack systematic measures of inflation and market expectations. We develop an asset-pricing–based approach and apply it to major U.S. office, industrial, and retail markets to estimate these measures.*
+*Commercial real estate markets lack systematic measures of inflation, market expectations, and risk premiums. We develop an asset-pricing–based approach and apply it to major U.S. office, industrial, and retail markets to estimate these measures.*
+
+<p style="margin-top: 2.5em;"></p>
+
+##### **<span style="color: rgb(0, 0, 0)">Credit Expansion and Neighborhood Transformation: Evidence from Place-Based Mortgage Lending</span>** (with Wenchuan Zhao)
+
+**Presentations: UEA European Meeting 2026 (Scheduled)**
+
+*Credit policy is often place-based. When borrowing costs are lowered in specific locations, who moves in and local outcomes may change. We study this sorting channel in a place-based mortgage lending program.*
 
 <p style="margin-top: 2.5em;"></p>
 
@@ -44,8 +52,5 @@ nav_order: 2
 
 #### **Work in Progress**
 
-##### **<span style="color: rgb(51, 153, 255)">Who Holds Fixed-Income Assets and How It Shapes Monetary Policy: Evidence from Sector-Level Portfolios</span>**
+##### **<span style="color: rgb(0, 0, 0)">Who Holds Fixed-Income Assets and How It Shapes Monetary Policy: Evidence from Sector-Level Portfolios</span>**
 
-<p style="margin-top: 2.5em;"></p>
-
-##### **<span style="color: rgb(51, 153, 255)">Credit Expansion and Neighborhood Transformation: Evidence from Place-Based Mortgage Lending</span>** (with Wenchuan Zhao)
