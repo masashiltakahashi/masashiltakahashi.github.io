@@ -33,5 +33,9 @@ social: false # includes social icons at the bottom of the page
 
 <p style="margin-top: 1em;"></p>
 
+##### I will be on the academic job market in **2026--2027**. I am also fortunate to be visiting the Board of Governors of the Federal Reserve System in Washington, D.C., as a Dissertation Fellow this summer.
+
+<p style="margin-top: 1em;"></p>
+
 Contact: `mft5548@psu.edu`  
 CV: [`CLICK HERE`](../assets/pdf/CV.pdf)
