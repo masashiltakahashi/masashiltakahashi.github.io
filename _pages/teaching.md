@@ -17,6 +17,8 @@ nav_order: 3
   <span>Spring 2024, Fall 2024, Fall 2025</span>
 </div>
 
+*Textbook: David Ling and Wayner Archer. Real Estate Principles: A Value Approach*
+
 <!-- **<span style="color: rgb(51, 153, 255)">RM450: Contemporary Issues in Real Estate Markets</span>**
 
 Spring 2024, Fall 2024, Fall 2025 -->
