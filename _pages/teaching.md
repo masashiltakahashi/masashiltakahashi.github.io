@@ -8,7 +8,9 @@ nav: true
 nav_order: 3
 ---
 
-#### **Instructor**
+#### **`Instructor`**
+
+<p style="margin-top: 1.5em;"></p>
 
 <div style="display: flex; justify-content: space-between; align-items: baseline;">
   <span style="font-weight:600;">
@@ -27,7 +29,9 @@ Spring 2024, Fall 2024, Fall 2025 -->
 
 <p style="margin-top: 3em;"></p>
 
-#### **Teaching Assistant**
+#### **`Teaching Assistant`**
+
+<p style="margin-top: 1.5em;"></p>
 
 <div style="display: flex; justify-content: space-between; align-items: baseline;">
   <span style="font-weight:600;">
