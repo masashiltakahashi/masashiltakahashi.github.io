@@ -18,7 +18,7 @@ nav_order: 2
 
 #### **Working Papers**
 
-##### **<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5733262" target="_blank" rel="noopener noreferrer" style="color: rgb(51, 153, 255); text-decoration: none;">Expectations and Risk Premiums in Illiquid Real Assets</a>** (with <a href="https://directory.smeal.psu.edu/juy18" target="_blank" rel="noopener noreferrer" style="color: rgb(51, 153, 255); text-decoration: none;">Jiro Yoshida</a>)
+##### **<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5733262" target="_blank" rel="noopener noreferrer" style="color: rgb(51, 153, 255); text-decoration: none;">Expectations and Risk Premiums in Illiquid Real Assets</a>** (with <a href="https://sites.google.com/view/jiroyoshida/english" target="_blank" rel="noopener noreferrer" style="color: rgb(51, 153, 255); text-decoration: none;">Jiro Yoshida</a>)
 
 **Presentations: USC 2026, Real Estate Finance and Investment Symposium 2025, Penn State 2025**
 
@@ -26,7 +26,7 @@ nav_order: 2
 
 <p style="margin-top: 2.5em;"></p>
 
-##### **<span style="color: rgb(51, 153, 255)">Credit Expansion and Neighborhood Transformation: Evidence from Place-Based Mortgage Lending</span>** (with Wenchuan Zhao)
+##### **<span style="color: rgb(51, 153, 255)">Credit Expansion and Neighborhood Transformation: Evidence from Place-Based Mortgage Lending</span>** (with <a href="https://www.wenchuan-zhao.com/" target="_blank" rel="noopener noreferrer" style="color: rgb(51, 153, 255); text-decoration: none;">Wenchuan Zhao</a>)
 
 **Presentations: UEA Summer School 2026 (Scheduled), UEA European Meeting 2026 (Scheduled)**
 
