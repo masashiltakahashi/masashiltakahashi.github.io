@@ -16,6 +16,12 @@ nav_order: 2
 # My research themes are investigating (1) How financial contracts incorporate the future state of the world and (2) recovering beliefs for the state of the world from obserged financial contracts.
 ---
 
+#### **Job Market Paper**
+
+##### **<span style="color: rgb(0, 0, 0)">Who Holds Fixed-Income Assets and How It Shapes Monetary Policy: Evidence from Sector-Level Portfolios</span>**
+
+<p style="margin-top: 5em;"></p>
+
 #### **Working Papers**
 
 ##### **<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5733262" target="_blank" rel="noopener noreferrer" style="color: rgb(51, 153, 255); text-decoration: none;">Expectations and Risk Premiums in Illiquid Real Assets</a>** (with <a href="https://sites.google.com/view/jiroyoshida/english" target="_blank" rel="noopener noreferrer" style="color: rgb(51, 153, 255); text-decoration: none;">Jiro Yoshida</a>)
@@ -26,7 +32,7 @@ nav_order: 2
 
 <p style="margin-top: 2.5em;"></p>
 
-##### **<span style="color: rgb(51, 153, 255)">Credit Expansion and Neighborhood Transformation: Evidence from Place-Based Mortgage Lending</span>** (with <a href="https://www.wenchuan-zhao.com/" target="_blank" rel="noopener noreferrer" style="color: rgb(51, 153, 255); text-decoration: none;">Wenchuan Zhao</a>)
+##### **<span style="color: rgb(0, 0, 0)">Credit Expansion and Neighborhood Transformation: Evidence from Place-Based Mortgage Lending</span>** (with <a href="https://www.wenchuan-zhao.com/" target="_blank" rel="noopener noreferrer" style="color: rgb(51, 153, 255); text-decoration: none;">Wenchuan Zhao</a>)
 
 **Presentations: UEA Summer School 2026 (Scheduled), UEA European Meeting 2026 (Scheduled)**
 
@@ -48,9 +54,4 @@ nav_order: 2
 
 *In cross-sectional setting of the difference-in-discontinuities (diff-in-disc) design, identifying the conventional local average treatment effect (LATE) additionally requires random assignment of comparison groups.*
 
-<p style="margin-top: 5em;"></p>
-
-#### **Work in Progress**
-
-##### **<span style="color: rgb(51, 153, 255)">Who Holds Fixed-Income Assets and How It Shapes Monetary Policy: Evidence from Sector-Level Portfolios</span>**
 
