@@ -30,7 +30,7 @@ nav_order: 2
 
 ##### **<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5733262" target="_blank" rel="noopener noreferrer" style="color: rgb(51, 153, 255); text-decoration: none;">Expectations and Risk Premiums in Illiquid Real Assets</a>** (with <a href="https://sites.google.com/view/jiroyoshida/english" target="_blank" rel="noopener noreferrer" style="color: rgb(51, 153, 255); text-decoration: none;">Jiro Yoshida</a>)
 
-**Presentations: USC 2026, Real Estate Finance and Investment Symposium 2025, Penn State 2025**
+**Presentations: AREUEA National 2026 (Scheduled), MIT 2026 (Scheduled), USC 2026, Real Estate Finance and Investment Symposium 2025, Penn State 2025**
 
 *Commercial real estate markets lack systematic measures of inflation, market expectations, and risk premiums. We develop an asset-pricing–based approach and apply it to major U.S. office, industrial, and retail markets to estimate these measures.*
 
