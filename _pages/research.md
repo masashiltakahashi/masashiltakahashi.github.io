@@ -20,7 +20,9 @@ nav_order: 2
 
 <p style="margin-top: 1.5em;"></p>
 
-##### **<span>Who Holds Fixed-Income Assets and How It Shapes Monetary Policy: Evidence from Sector-Level Portfolios</span>**
+##### **<span>Who Holds Bond Assets and How It Shapes Monetary Policy: Evidence from Sector-Level Portfolios</span>**
+
+Bond markets are the central instrument of unconventional monetary policy, and the transmission of Fed asset purchases to yields depends critically on the ownership structure and demand elasticity of bond investors. This paper estimates heterogeneous institutional demand in the U.S. bond market across four major asset classes — Treasuries, agency MBS, corporate bonds, and municipal bonds. Using sector-level portfolio share data spanning 26 institutional sectors and supply shocks as instruments, I estimate sector-specific demand elasticities: financial intermediaries exhibit lower yield elasticities, while households and foreign investors exhibit higher elasticities. Given the large ownership share of financial intermediaries, aggregate market demand is relatively inelastic. The estimated demand system quantifies the equilibrium yield effects of Federal Reserve asset purchases, including (i) historical QE episodes and (ii) prospective quantitative tightening (QT).
 
 <p style="margin-top: 5em;"></p>
 
@@ -36,7 +38,7 @@ nav_order: 2
 
 <p style="margin-top: 2.5em;"></p>
 
-##### **<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6440818" target="_blank" rel="noopener noreferrer" style="color: rgb(51, 153, 255); text-decoration: none;">Credit Expansion and Neighborhood Transformation: Evidence from Place-Based Mortgage Lending</a>** (with <a href="https://www.wenchuan-zhao.com/" target="_blank" rel="noopener noreferrer" style="color: rgb(51, 153, 255); text-decoration: none;">Wenchuan Zhao</a>)
+##### **<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6440818" target="_blank" rel="noopener noreferrer" style="color: rgb(51, 153, 255); text-decoration: none;">Mortgage Credit Without Capitalization: Evidence from Place-Based GSE Lending</a>** (with <a href="https://www.wenchuan-zhao.com/" target="_blank" rel="noopener noreferrer" style="color: rgb(51, 153, 255); text-decoration: none;">Wenchuan Zhao</a>)
 
 **Presentations: UEA Summer School 2026 (Scheduled), UEA European Meeting 2026 (Scheduled)**
 
