@@ -25,7 +25,7 @@ nav_order: 2
 **Presentations: Federal Reserve Board 2026**
 
 How much do quantitative easing (QE) and tightening (QT) move bond yields? The answer turns on the slope of aggregate bond demand---who holds bonds and how sensitive their demand is to yields. I estimate heterogeneous investor demand in the U.S. bond market across four asset classes: Treasuries, agency MBS, corporate bonds, and municipal bonds. Using sector-level portfolio-share data for 28 investor sectors and supply shocks as instruments, I estimate sector-specific demand elasticities, measuring each sector's bond demand against the non-bond asset it actually rebalances toward. Financial intermediaries and foreign investors are inelastic, while households are far more elastic and arbitrageurs moderately so. Because intermediaries and foreign investors hold most of the market, aggregate demand is inelastic, with a market elasticity well below one. I use the estimated demand system to quantify the equilibrium yield effects of Federal Reserve balance-sheet policy, letting bond supply respond to yields. QE compressed yields substantially, while the effect of QT is smaller: a further \$900 billion of balance-sheet runoff would raise Treasury yields by about 30 basis points. The asymmetry arises because demand is more elastic at the higher yields prevailing during QT, so the same balance-sheet change moves yields less.
-<p style="margin-top: 5em;"></p>
+<p style="margin-top: 2.5em;"></p>
 
 #### **`Working Papers`**
 
