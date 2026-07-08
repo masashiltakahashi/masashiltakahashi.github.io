@@ -22,8 +22,9 @@ nav_order: 2
 
 ##### **<span>Who Holds U.S. Bonds and How It Shapes the Yield Effects of QE and QT</span>**
 
-Bond markets are the central instrument of unconventional monetary policy, and the transmission of Fed asset purchases to yields depends critically on the ownership structure and demand elasticity of bond investors. This paper estimates heterogeneous institutional demand in the U.S. bond market across four major asset classes — Treasuries, agency MBS, corporate bonds, and municipal bonds. Using sector-level portfolio share data spanning 26 institutional sectors and supply shocks as instruments, I estimate sector-specific demand elasticities: financial intermediaries exhibit lower yield elasticities, while households and foreign investors exhibit higher elasticities. Given the large ownership share of financial intermediaries, aggregate market demand is relatively inelastic. The estimated demand system quantifies the equilibrium yield effects of Federal Reserve asset purchases, including (i) historical QE episodes and (ii) prospective quantitative tightening (QT).
+**Presentations: Federal Reserve Board 2026**
 
+How much do quantitative easing (QE) and tightening (QT) move bond yields? The answer turns on the slope of aggregate bond demand---who holds bonds and how sensitive their demand is to yields. I estimate heterogeneous investor demand in the U.S. bond market across four asset classes: Treasuries, agency MBS, corporate bonds, and municipal bonds. Using sector-level portfolio-share data for 28 investor sectors and supply shocks as instruments, I estimate sector-specific demand elasticities, measuring each sector's bond demand against the non-bond asset it actually rebalances toward. Financial intermediaries and foreign investors are inelastic, while households are far more elastic and arbitrageurs moderately so. Because intermediaries and foreign investors hold most of the market, aggregate demand is inelastic, with a market elasticity well below one. I use the estimated demand system to quantify the equilibrium yield effects of Federal Reserve balance-sheet policy, letting bond supply respond to yields. QE compressed yields substantially, while the effect of QT is smaller: a further \$900 billion of balance-sheet runoff would raise Treasury yields by about 30 basis points. The asymmetry arises because demand is more elastic at the higher yields prevailing during QT, so the same balance-sheet change moves yields less.
 <p style="margin-top: 5em;"></p>
 
 #### **`Working Papers`**
@@ -40,7 +41,7 @@ Bond markets are the central instrument of unconventional monetary policy, and t
 
 ##### **<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6440818" target="_blank" rel="noopener noreferrer" style="color: rgb(51, 153, 255); text-decoration: none;">Mortgage Credit Without Capitalization: Evidence from Place-Based GSE Lending</a>** (with <a href="https://www.wenchuan-zhao.com/" target="_blank" rel="noopener noreferrer" style="color: rgb(51, 153, 255); text-decoration: none;">Wenchuan Zhao</a>)
 
-**Presentations: AREUEA-ASSA 2027 (scheduled), Zurich–Oxford Doctoral Symposium on Real Estate Markets 2026 (scheduled), ESEM 2026 (scheduled), Federal Housing Finance Agency 2026 (scheduled), FMA Europe 2026 (scheduled), UEA Summer School 2026, UEA European Meeting 2026**
+**Presentations: AREUEA-ASSA 2027 (scheduled), Zurich–Oxford Doctoral Symposium on Real Estate Markets 2026 (scheduled), Econometric Society European Meeting 2026 (scheduled), Federal Housing Finance Agency 2026 (scheduled), FMA Europe 2026, UEA Summer School 2026, UEA European Meeting 2026**
 
 *Credit market expansions can improve welfare or distort it, depending on supply conditions and how credit is allocated. We show that the Duty-to-Serve program relaxed credit rationing in a market with elastic housing supply, increasing homeownership without raising house prices.*
 
@@ -53,6 +54,10 @@ Bond markets are the central instrument of unconventional monetary policy, and t
 *Climate risk encompasses newly recognized bad states of the world that affect future asset values. When contracting parties increasingly anticipate this risk, do financial contract designs become more complete by specifying more future climate contingencies?*
 
 <p style="margin-top: 2.5em;"></p>
+
+#### **`Notes`**
+
+<p style="margin-top: 1.5em;"></p>
 
 ##### **<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686891" target="_blank" rel="noopener noreferrer" style="color: rgb(51, 153, 255); text-decoration: none;">A Note on Identification of Difference-in-Discontinuities in Cross-Sectional Settings</a>**
 
