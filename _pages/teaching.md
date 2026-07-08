@@ -14,7 +14,7 @@ nav_order: 3
 
 <div style="display: flex; justify-content: space-between; align-items: baseline;">
   <span style="font-weight:600;">
-    RM450: Contemporary Issues in Real Estate Markets
+    RM450: Contemporary Issues in Real Estate Markets (×3)
   </span>
   <span>Spring 2024, Fall 2024, Fall 2025</span>
 </div>
