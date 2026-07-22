@@ -47,7 +47,7 @@ How much do quantitative easing (QE) and tightening (QT) move bond yields? The a
 
 <p style="margin-top: 2.5em;"></p>
 
-##### **<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686886" target="_blank" rel="noopener noreferrer" style="color: rgb(51, 153, 255); text-decoration: none;">Climate Risk and Contract Design: Evidence from Corporate Real Estate Leases</a>**
+##### **<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4686886" target="_blank" rel="noopener noreferrer" style="color: rgb(51, 153, 255); text-decoration: none;">Climate Risk in Financial Contracts: Evidence from Leases, Loans, Bonds, and Mergers</a>**
 
 **Presentations: MIT Climate and Real Estate Symposium 2024, FIRS PhD Session 2024, Hitotsubashi 2023**
 
