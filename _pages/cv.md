@@ -1,11 +1,10 @@
 ---
-layout: page
+layout: none
 permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
+redirect: /assets/pdf/CV.pdf
 ---
 
-<a href="{{ '/assets/pdf/CV.pdf' | relative_url }}" target="_blank" rel="noopener">Download PDF</a>
-
-<iframe src="{{ '/assets/pdf/CV.pdf' | relative_url }}" width="100%" height="900px" style="border: none;"></iframe>
+<meta http-equiv="refresh" content="0; url={{ '/assets/pdf/CV.pdf' | relative_url }}" />
