@@ -36,5 +36,4 @@ social: false # includes social icons at the bottom of the page
 ##### **I will be on the academic job market in 2026--2027**. This summer, I visited the Federal Reserve Board in Washington, D.C., as a Dissertation Fellow.
 <p style="margin-top: 1em;"></p>
 
-Contact: `mft5548@psu.edu`  
-CV: [`CLICK HERE`](../assets/pdf/CV.pdf)
+Contact: `mft5548@psu.edu`
