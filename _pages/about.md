@@ -33,7 +33,7 @@ social: false # includes social icons at the bottom of the page
 
 <p style="margin-top: 1em;"></p>
 
-##### **I will be on the academic job market in 2026--2027**. This summer, I visited the Federal Reserve Board in Washington, D.C., as a Dissertation Fellow.
+##### **I am on the academic job market in 2026--2027**. This summer, I was a Dissertation Fellow at the Federal Reserve Board in Washington, D.C.
 <p style="margin-top: 1em;"></p>
 
 Contact: `mft5548@psu.edu`
