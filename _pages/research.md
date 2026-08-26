@@ -13,7 +13,7 @@ nav_order: 2
 
 #</div>
 
-# My research themes are investigating (1) How financial contracts incorporate the future state of the world and (2) recovering beliefs for the state of the world from obserged financial contracts.
+My research focuses on **asset pricing, financial intermediation, and real estate**. In particular, I am interested in demand system asset pricing applied to fixed-income and real estate markets.
 ---
 
 #### **`Job Market Paper`**
