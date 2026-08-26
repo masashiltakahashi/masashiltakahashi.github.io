@@ -14,7 +14,7 @@ nav_order: 2
 #</div>
 ---
 
-My research focuses on **asset pricing, financial intermediation, and real estate**. In particular, I am interested in demand system asset pricing applied to fixed-income and real estate markets.
+My research focuses on **asset pricing, financial intermediation, and real estate**. In particular, I am interested in **demand system asset pricing** applied to fixed-income and real estate markets.
 
 #### **`Job Market Paper`**
 
