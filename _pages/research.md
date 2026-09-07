@@ -20,7 +20,7 @@ My research focuses on **asset pricing, financial intermediation, and real estat
 
 <p style="margin-top: 1.5em;"></p>
 
-##### **<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7162438" target="_blank" rel="noopener noreferrer" style="color: rgb(51, 153, 255); text-decoration: none;">Who Holds U.S. Bonds and How It Shapes the Yield Effects of QE and QT</a>**
+##### **<a href="https://masashiltakahashi.github.io/assets/pdf/JMP_Takahashi.pdf" target="_blank" rel="noopener noreferrer" style="color: rgb(51, 153, 255); text-decoration: none;">Who Holds U.S. Bonds and How It Shapes the Yield Effects of QE and QT</a>**
 
 **Presentations: Federal Reserve Board 2026, Penn State 2026**
 
