@@ -46,7 +46,7 @@ Spring 2024, Fall 2024, Fall 2025 -->
   <span style="font-weight:600;">
     FIN460/RM460: Real Estate Financial Analysis
   </span>
-  <span>Fall 2023, Fall 2026</span>
+  <span>Fall 2023</span>
 </div>
 
 <p style="margin-top: 0.3em; margin-left: 1em;">
