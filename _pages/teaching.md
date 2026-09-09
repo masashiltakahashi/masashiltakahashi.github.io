@@ -49,10 +49,6 @@ Spring 2024, Fall 2024, Fall 2025 -->
   <span>Fall 2023</span>
 </div>
 
-<p style="margin-top: 0.3em; margin-left: 1em;">
-  <a href="/assets/Exercise_TVM_Review.xlsx">Exercise: TVM Review (Excel)</a>
-</p>
-
 <p style="margin-top: 0.5em;"></p>
 
 <div style="display: flex; justify-content: space-between; align-items: baseline;">
