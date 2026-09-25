@@ -31,9 +31,9 @@ How much do the bond-supply shifts of quantitative easing (QE) and tightening (Q
 
 <p style="margin-top: 1.5em;"></p>
 
-##### **<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6440818" target="_blank" rel="noopener noreferrer" style="color: rgb(51, 153, 255); text-decoration: none;">Mortgage Credit Without Capitalization: Evidence from Place-Based GSE Lending</a>** (with <a href="https://www.wenchuan-zhao.com/" target="_blank" rel="noopener noreferrer" style="color: rgb(51, 153, 255); text-decoration: none;">Wenchuan Zhao</a>)
+##### **<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6440818" target="_blank" rel="noopener noreferrer" style="color: rgb(51, 153, 255); text-decoration: none;">Rationed, Not Repriced: Mortgage Access and House Prices</a>** (with <a href="https://www.wenchuan-zhao.com/" target="_blank" rel="noopener noreferrer" style="color: rgb(51, 153, 255); text-decoration: none;">Wenchuan Zhao</a>)
 
-**Presentations: AREUEA-ASSA 2027 (scheduled), Freddie Mac Rural Housing Symposium 2026 (scheduled), USI-SFI Real Estate and Urban Economics Conference 2026 (scheduled), Zurich–Oxford Doctoral Symposium on Real Estate Markets 2026 (scheduled), Econometric Society European Meeting 2026, Federal Housing Finance Agency 2026, FMA Europe 2026, UEA Summer School 2026, UEA European Meeting 2026**
+**Presentations: AREUEA-ASSA 2027 (scheduled), Freddie Mac Rural Housing Symposium 2026, USI-SFI Real Estate and Urban Economics Conference 2026, Zurich–Oxford Doctoral Symposium on Real Estate Markets 2026, Econometric Society European Meeting 2026, Federal Housing Finance Agency 2026, FMA Europe 2026, UEA Summer School 2026, UEA European Meeting 2026**
 
 *Credit market expansions can improve welfare or distort it, depending on supply conditions and how credit is allocated. We show that the Duty-to-Serve program relaxed credit rationing in a market with elastic housing supply, increasing homeownership without raising house prices.*
 
