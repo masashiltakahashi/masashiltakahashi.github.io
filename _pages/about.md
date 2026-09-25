@@ -25,9 +25,10 @@ social: false # includes social icons at the bottom of the page
 # Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 ---
 
-##### I am a PhD candidate at Smeal College of Business, Pennsylvania State University. 
+##### I am a PhD candidate at the Smeal College of Business, Pennsylvania State University. 
 
-##### My research focuses on **asset pricing, financial intermediation, and real estate**. In particular, I am interested in **demand system asset pricing** applied to fixed-income and real estate markets.
+##### My research focuses on **asset pricing, financial intermediation, and real estate**. In particular, I study how financial intermediaries shape asset prices in fixed-income and real estate markets, using natural experiments and structural models such as demand system asset pricing.
+
 
 <p style="margin-top: 1em;"></p>
 
@@ -35,7 +36,7 @@ social: false # includes social icons at the bottom of the page
 
 <p style="margin-top: 1em;"></p>
 
-##### **I am on the academic job market in 2026--2027**. This summer, I was a Dissertation Fellow at the Federal Reserve Board in Washington, D.C.
+##### **I am on the academic job market in 2026--2027**. In summer 2026, I was a Dissertation Fellow at the Federal Reserve Board in Washington, D.C.
 <p style="margin-top: 1em;"></p>
 
 Contact: `mft5548@psu.edu`
