@@ -22,6 +22,8 @@ My research focuses on **asset pricing, financial intermediation, and real estat
 
 ##### **<a href="https://masashiltakahashi.github.io/assets/pdf/JMP_Takahashi.pdf" target="_blank" rel="noopener noreferrer" style="color: rgb(51, 153, 255); text-decoration: none;">Who Holds U.S. Bonds and How It Shapes the Yield Effects of QE and QT</a>**
 
+**Fellowship: Federal Reserve Board Dissertation Fellowship 2026**
+
 **Presentations: Federal Reserve Board 2026, Penn State 2026**
 
 How much do the bond-supply shifts of quantitative easing (QE) and tightening (QT) move yields? The answer turns on the slope of aggregate bond demand: who holds bonds, how sensitive their demand is to yields, and how fast they rebalance. I estimate heterogeneous investor demand in the two U.S. bond markets the Federal Reserve trades, Treasuries and agency MBS, from sector-level portfolio holdings and transactions spanning 1985 to 2025. I measure each sector's demand against its own non-bond alternative and let its yield sensitivity and rebalancing speed vary. Most investors respond to yields weakly and slowly, so aggregate demand is inelastic. Feeding the demand system through market clearing, I find that historical QE compressed 10-year Treasury yields by 8 to 12 basis points per percent of the float removed. Because agency MBS demand prices the spread over Treasuries, the composition of a program, not its size, determines what it does to mortgage rates. A further runoff would move yields less per unit than the QE programs did, because the sectors that absorb Treasuries hold a larger share of the float than they did during QE: a further $1 trillion of runoff raises 10-year Treasury yields by about 22 basis points and agency MBS yields by about 27, of which 5 is the spread.
