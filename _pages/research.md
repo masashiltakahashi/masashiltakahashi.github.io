@@ -37,13 +37,13 @@ How much do the bond-supply shifts of quantitative easing (QE) and tightening (Q
 
 **Presentations: AREUEA-ASSA 2027 (scheduled), Freddie Mac Rural Housing Symposium 2026, USI-SFI Real Estate and Urban Economics Conference 2026, Zurich–Oxford Doctoral Symposium on Real Estate Markets 2026, Econometric Society European Meeting 2026, Federal Housing Finance Agency 2026, FMA Europe 2026, UEA Summer School 2026, UEA European Meeting 2026**
 
-*Credit market expansions can improve welfare or distort it, depending on supply conditions and how credit is allocated. We show that the Duty-to-Serve program relaxed credit rationing in a market with elastic housing supply, increasing homeownership without raising house prices.*
+*Mortgage subsidies usually raise house prices instead of helping people buy homes. We study a GSE program where lenders used the subsidy to approve more borrowers, not to cut interest rates. As a result, new homebuyers benefited, and house prices did not rise.*
 
 <p style="margin-top: 2.5em;"></p>
 
 ##### **<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5733262" target="_blank" rel="noopener noreferrer" style="color: rgb(51, 153, 255); text-decoration: none;">Expectations and Risk Premiums in Illiquid Real Assets</a>** (with <a href="https://sites.google.com/view/jiroyoshida/english" target="_blank" rel="noopener noreferrer" style="color: rgb(51, 153, 255); text-decoration: none;">Jiro Yoshida</a>)
 
-**Presentations: CREDA Research Symposium 2026 (scheduled), Quad Real Estate Conference 2026, AREUEA National 2026, CBRE 2026, MIT 2026, USC 2026, Real Estate Finance and Investment Symposium 2025**
+**Presentations: CREDA Research Symposium 2026, Quad Real Estate Conference 2026, AREUEA National 2026, CBRE 2026, MIT 2026, USC 2026, Real Estate Finance and Investment Symposium 2025**
 
 *Commercial real estate markets lack systematic measures of inflation, market expectations, and risk premiums. We develop an asset-pricing–based approach and apply it to major U.S. office, industrial, and retail markets to estimate these measures.*
 
