@@ -27,7 +27,7 @@ social: false # includes social icons at the bottom of the page
 
 ##### I am a PhD candidate at the Smeal College of Business, Pennsylvania State University. 
 
-##### My research focuses on **asset pricing, financial intermediation, and real estate**. In particular, I study how financial intermediaries shape asset prices in fixed-income and real estate markets, using natural experiments and structural models such as demand system asset pricing.
+##### My research focuses on **asset pricing, financial intermediation, and real estate**. In particular, I study the Treasury, agency MBS, mortgage, and commercial real estate markets, using natural experiments and structural models such as demand system asset pricing.
 
 
 <p style="margin-top: 1em;"></p>

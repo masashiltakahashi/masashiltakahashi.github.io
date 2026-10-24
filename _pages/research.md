@@ -14,7 +14,7 @@ nav_order: 2
 #</div>
 ---
 
-My research focuses on **asset pricing, financial intermediation, and real estate**. In particular, I study how financial intermediaries shape asset prices in fixed-income and real estate markets, using natural experiments and structural models such as demand system asset pricing.
+My research focuses on **asset pricing, financial intermediation, and real estate**. In particular, I study the Treasury, agency MBS, mortgage, and commercial real estate markets, using natural experiments and structural models such as demand system asset pricing.
 
 #### **`Job Market Paper`**
 
